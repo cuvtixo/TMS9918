@@ -12,6 +12,8 @@ Great example of using the TMS in a homebrew computer based off the 6809:
 
 https://github.com/74hc595/Ultim809/tree/master/circuit
 
+https://archive.org/details/bitsavers_tidataBook_5911832
+
 
 ### Special Thanks
 
